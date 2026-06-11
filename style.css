@@ -1,0 +1,65 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  background:#f1f5f9;
+
+  font-family:sans-serif;
+
+  padding:30px;
+}
+
+.email-container{
+  max-width:600px;
+
+  margin:auto;
+
+  background:white;
+
+  border-radius:20px;
+
+  overflow:hidden;
+}
+
+.header{
+  background:#2563eb;
+
+  color:white;
+
+  padding:30px;
+
+  text-align:center;
+}
+
+.content{
+  padding:35px;
+
+  text-align:center;
+}
+
+.content h2{
+  margin-bottom:20px;
+}
+
+.content p{
+  margin-bottom:25px;
+
+  color:#475569;
+}
+
+button{
+  padding:14px 28px;
+
+  border:none;
+
+  border-radius:12px;
+
+  background:#2563eb;
+
+  color:white;
+
+  cursor:pointer;
+}
